@@ -23,7 +23,7 @@ public class ComputeAreaWithConsoleInput {
         System.out.print("Enter a number for radius");
         //
         double radius = input.nextDouble();
-        double area = radius*radius*3.14159;
+        double area = radius * radius * 3.14159;
         System.out.print("Area is: " + area);
     }
     
